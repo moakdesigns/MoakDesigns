@@ -1,6 +1,6 @@
 MOAKDESIGNS
 ===========
-WARNING :: STILL IN DEVELOPMENT
+ARCHIVED FOR TIME-BEING
 
 
 My website in progress
