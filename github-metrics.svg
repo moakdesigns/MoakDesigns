@@ -1551,7 +1551,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hypothesis/product-backlog</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1585,7 +1585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CharltonC/chrome-css-selector-capture</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1699,7 +1699,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20/10/2021, 14:14 (timezone America/New_York) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 20/10/2021, 15:10 (timezone America/New_York) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
