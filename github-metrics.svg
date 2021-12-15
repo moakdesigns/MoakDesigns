@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="852" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="869" class="">
     <defs>
         <style/>
     </defs>
@@ -1700,7 +1700,7 @@
                                     </div>
                                 </div>
                                 <div class="field description">
-                  AppAgg - APPlication AGGregator
+                  AppAgg - APPlication AGGregator. We support all major platforms: Android, iOS, macOS, Windows, Steam, Nintendo, PlayStation, Xbox.
                 </div>
                                 <div class="field infos">
                                     <div>
@@ -1765,7 +1765,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Dec 2021, 11:20:42 (timezone America/New_York) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 15 Dec 2021, 12:20:45 (timezone America/New_York) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
