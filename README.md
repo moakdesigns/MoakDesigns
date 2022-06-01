@@ -1,8 +1,10 @@
+<!--
 # Metrics
 ![Metrics](https://metrics.lecoq.io/moakdesigns?template=classic&languages=1&stars=1&tweets=1&tweets.limit=2&stars.limit=4&config.timezone=America%2FNew_York)
 
 # Sparks
 [![Sparkline](https://stars.medv.io/moakdesigns/moakdesigns.svg)](https://stars.medv.io/moakdesigns/moakdesigns)
+-->
 
 
 
