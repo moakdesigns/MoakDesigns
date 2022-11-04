@@ -286,7 +286,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>reborncms/reborn</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reborn CMS</div>
@@ -339,7 +339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>antifuchs/gmail-britta</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate complex gmail filters via a neat little ruby DSL</div>
@@ -392,7 +392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mbrt/gmailctl</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Declarative configuration for Gmail filters</div>
@@ -495,7 +495,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Nov 2022, 14:19:57 (timezone America/New_York) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 4 Nov 2022, 15:13:11 (timezone America/New_York) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
