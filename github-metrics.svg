@@ -286,7 +286,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blairjames/squeaky</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast word list cleaner and de-duplicator. Filters problem characters that play havoc with UTF-8 and removes duplicates to avoid inefficient use of resources. Allows removal of words below a specified length. Very handy when consolidating large wordlists or when combining multiple wordlists generated with cewl.</div>
@@ -495,7 +495,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jul 2024, 16:13:54 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jul 2024, 17:11:52 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
